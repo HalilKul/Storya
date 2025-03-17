@@ -5,14 +5,15 @@ import Footer from '@/components/Footer';
 import CategoryClientPage from './client';
 
 type Props = {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
   searchParams?: { [key: string]: string | string[] | undefined };
 };
 
 export default async function CategoryPage({ params, searchParams }: Props) {
-  let slug = params.slug;
+  const resolvedParams = await params;
+  let slug = resolvedParams.slug;
   
   // "cocuk" slug'ı için özel durum - "cocuk-kitaplari" slug'ına yönlendir
   if (slug === 'cocuk') {
