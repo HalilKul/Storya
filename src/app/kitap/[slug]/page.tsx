@@ -10,13 +10,9 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import BookCard from '@/components/BookCard';
 
-type Props = {
-  params: {
-    slug: string
-  }
-}
-
-export default function BookDetailPage({ params }: Props) {
+export default function BookDetailPage({ params }: {
+  params: { slug: string }
+}) {
   const book = getBookBySlug(params.slug);
   const { addToCart } = useCart();
   const [isAdded, setIsAdded] = useState(false);

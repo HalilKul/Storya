@@ -4,12 +4,9 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import CategoryClientPage from './client';
 
-type PageProps = {
-  params: { slug: string };
-  searchParams?: { [key: string]: string | string[] | undefined };
-};
-
-export default function CategoryPage({ params }: PageProps) {
+export default function CategoryPage({ params }: {
+  params: { slug: string }
+}) {
   // Slug'a göre kategori objesi bulalım
   const categoryBySlug = categories.find(cat => cat.slug === params.slug);
   
