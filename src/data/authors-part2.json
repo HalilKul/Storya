@@ -20,7 +20,7 @@
     ]
   },
   {
-    "id": "author-21",
+    "id": "author-101",
     "name": "Ayşe Yılmaz",
     "bio": "Ayşe Yılmaz, Türkiye'nin önde gelen kişisel gelişim yazarlarından biridir. Psikoloji eğitimi almış ve uzun yıllar danışmanlık yapmıştır. Kitaplarında bilimsel araştırmaları günlük hayata uygulanabilir tavsiyelerle birleştirmeyi amaçlar.",
     "image": "public/img/ayse-yilmaz.jpg",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": "author-22",
+    "id": "author-102",
     "name": "Mehmet Kaya",
     "bio": "Mehmet Kaya, teknoloji ve gelecek trendleri üzerine çalışan bir yazar ve konuşmacıdır. Bilgisayar mühendisliği eğitimi almış ve çeşitli teknoloji şirketlerinde yöneticilik yapmıştır. Kitaplarında teknolojinin toplum ve iş dünyası üzerindeki etkilerini inceler.",
     "image": "public/img/mehmet-kaya.jpg",
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "id": "author-23",
+    "id": "author-103",
     "name": "Zeynep Akar",
     "bio": "Zeynep Akar, polisiye ve gerilim türünde eserler veren ödüllü bir yazardır. Gazetecilik geçmişi olan Akar, gerçek olaylardan esinlenerek kurguladığı hikâyeleriyle tanınır. Kitapları birçok dile çevrilmiş ve bazıları televizyona uyarlanmıştır.",
     "image": "public/img/zeynep-akar.jpg",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "id": "author-24",
+    "id": "author-104",
     "name": "Jules Verne",
     "bio": "Jules Verne, Fransız yazar ve şairdir. Bilim kurgu edebiyatının öncülerinden sayılır. 'Dünya'nın Merkezine Yolculuk', 'Denizler Altında Yirmi Bin Fersah' ve 'Seksen Günde Devr-i Alem' gibi eserleriyle tanınır. Eserlerinde bilimsel gelişmeleri öngörmesiyle bilinir.",
     "image": "public/img/jules-verne.jpg",
