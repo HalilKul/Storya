@@ -80,7 +80,7 @@ export default function BookCard({ book, hideDescription = false }: BookCardProp
         </div>
       )}
       {book.hasAudio && (
-        <div className="absolute bottom-2 left-2 bg-primary-600 text-white px-2 py-1 rounded-md text-xs font-medium z-20 flex items-center">
+        <div className="absolute top-2 left-2 bg-primary-600 text-white px-2 py-1 rounded-md text-xs font-medium z-20 flex items-center">
           <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15.465a5 5 0 001.06-7.073m-2.11 9.9a9 9 0 010-12.728" />
           </svg>
