@@ -1,18 +1,15 @@
-import { Suspense } from 'react';
 import { notFound } from 'next/navigation';
 import { getCategoryById } from '@/lib/utils';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import CategoryContent from './CategoryContent';
+import CategoryClientPage from './client';
 
-type Props = {
-  params: {
-    slug: string;
-  };
+type PageProps = {
+  params: { slug: string };
   searchParams?: { [key: string]: string | string[] | undefined };
 };
 
-export default async function CategoryPage({ params }: Props) {
+export default function CategoryPage({ params }: PageProps) {
   const category = getCategoryById(params.slug);
 
   if (!category) {
@@ -22,9 +19,7 @@ export default async function CategoryPage({ params }: Props) {
   return (
     <>
       <Header />
-      <Suspense fallback={<div>Loading...</div>}>
-        <CategoryContent category={category} />
-      </Suspense>
+      <CategoryClientPage category={category} />
       <Footer />
     </>
   );

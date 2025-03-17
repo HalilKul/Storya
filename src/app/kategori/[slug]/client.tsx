@@ -6,11 +6,11 @@ import { getBooksByCategory } from '@/lib/utils';
 import BookCard from '@/components/BookCard';
 import { Book, Category } from '@/lib/types';
 
-type CategoryContentProps = {
+type CategoryClientPageProps = {
   category: Category;
 };
 
-export default function CategoryContent({ category }: CategoryContentProps) {
+export default function CategoryClientPage({ category }: CategoryClientPageProps) {
   const [books, setBooks] = useState<Book[]>([]);
   const [sortOption, setSortOption] = useState('default');
 
