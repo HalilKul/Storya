@@ -7,8 +7,15 @@ import CategoryClientPage from './client';
 export default function CategoryPage({ params }: {
   params: { slug: string }
 }) {
+  let slug = params.slug;
+  
+  // "cocuk" slug'ı için özel durum - "cocuk-kitaplari" slug'ına yönlendir
+  if (slug === 'cocuk') {
+    slug = 'cocuk-kitaplari';
+  }
+  
   // Slug'a göre kategori objesi bulalım
-  const categoryBySlug = categories.find(cat => cat.slug === params.slug);
+  const categoryBySlug = categories.find(cat => cat.slug === slug);
   
   // Kategori bulunamazsa 404
   if (!categoryBySlug) {
