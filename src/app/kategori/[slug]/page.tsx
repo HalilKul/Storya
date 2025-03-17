@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getCategoryById } from '@/lib/utils';
+import { getCategoryById, categories } from '@/lib/utils';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import CategoryClientPage from './client';
@@ -10,7 +10,16 @@ type PageProps = {
 };
 
 export default function CategoryPage({ params }: PageProps) {
-  const category = getCategoryById(params.slug);
+  // Slug'a göre kategori objesi bulalım
+  const categoryBySlug = categories.find(cat => cat.slug === params.slug);
+  
+  // Kategori bulunamazsa 404
+  if (!categoryBySlug) {
+    notFound();
+  }
+  
+  // ID'ye göre kategori verilerini alalım
+  const category = getCategoryById(categoryBySlug.id);
 
   if (!category) {
     notFound();
