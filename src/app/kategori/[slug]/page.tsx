@@ -4,9 +4,14 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import CategoryClientPage from './client';
 
-export default function CategoryPage({ params }: {
-  params: { slug: string }
-}) {
+type Props = {
+  params: {
+    slug: string;
+  };
+  searchParams?: { [key: string]: string | string[] | undefined };
+};
+
+export default async function CategoryPage({ params, searchParams }: Props) {
   let slug = params.slug;
   
   // "cocuk" slug'ı için özel durum - "cocuk-kitaplari" slug'ına yönlendir
