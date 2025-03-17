@@ -1,0 +1,52 @@
+[
+  {
+    "id": "publisher-1",
+    "name": "Yapı Kredi Yayınları",
+    "logo": "/img/publishers/yky.png"
+  },
+  {
+    "id": "publisher-2",
+    "name": "Can Yayınları",
+    "logo": "/img/publishers/can.png"
+  },
+  {
+    "id": "publisher-3",
+    "name": "İletişim Yayınları",
+    "logo": "/img/publishers/iletisim.png"
+  },
+  {
+    "id": "publisher-4",
+    "name": "Doğan Kitap",
+    "logo": "/img/publishers/dogan.png"
+  },
+  {
+    "id": "publisher-5",
+    "name": "İş Bankası Kültür Yayınları",
+    "logo": "/img/publishers/isbankasi.png"
+  },
+  {
+    "id": "publisher-6",
+    "name": "Everest Yayınları",
+    "logo": "/img/publishers/everest.png"
+  },
+  {
+    "id": "publisher-7",
+    "name": "Alfa Yayınları",
+    "logo": "/img/publishers/alfa.png"
+  },
+  {
+    "id": "publisher-8",
+    "name": "Pegasus Yayınları",
+    "logo": "/img/publishers/pegasus.png"
+  },
+  {
+    "id": "publisher-9",
+    "name": "Altın Kitaplar",
+    "logo": "/img/publishers/altin.png"
+  },
+  {
+    "id": "publisher-10",
+    "name": "Metis Yayınları",
+    "logo": "/img/publishers/metis.png"
+  }
+] 

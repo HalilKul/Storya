@@ -1,0 +1,105 @@
+[
+  {
+    "id": "author-20",
+    "name": "Lewis Carroll",
+    "bio": "Lewis Carroll (gerçek adı Charles Lutwidge Dodgson), İngiliz yazar, matematikçi, mantıkçı, fotoğrafçı ve Anglikan papazıdır. En ünlü eserleri 'Alice Harikalar Diyarında' ve devamı 'Aynadan İçeri'dir. Absürt ve fantastik edebiyatın öncülerinden sayılır.",
+    "image": "public/img/lewis-carroll.jpg",
+    "birthDate": "1832-01-27",
+    "country": "İngiltere",
+    "genres": ["Fantastik Edebiyat", "Çocuk Edebiyatı", "Şiir"],
+    "awards": ["Royal Photographic Society Ödülü"],
+    "quotes": [
+      "Hayal gücü insana gerçeklerden kaçmak için değil, gerçeklerle yüzleşmek için verilmiştir.",
+      "Başka bir şey düşünmedikçe, ne düşündüğünü bilmezsin.",
+      "Her şeyin bir morali vardır, sadece onu bulman gerekir."
+    ],
+    "funFacts": [
+      "'Alice Harikalar Diyarında' kitabı, küçük bir kız çocuğu için anlattığı hikayeden doğmuştur.",
+      "Matematik profesörü olarak görev yapmıştır.",
+      "Kekemeliği vardı ve bu durumu genellikle çocuklarla konuşurken ortadan kalkıyordu."
+    ]
+  },
+  {
+    "id": "author-21",
+    "name": "Ayşe Yılmaz",
+    "bio": "Ayşe Yılmaz, Türkiye'nin önde gelen kişisel gelişim yazarlarından biridir. Psikoloji eğitimi almış ve uzun yıllar danışmanlık yapmıştır. Kitaplarında bilimsel araştırmaları günlük hayata uygulanabilir tavsiyelerle birleştirmeyi amaçlar.",
+    "image": "public/img/ayse-yilmaz.jpg",
+    "birthDate": "1975-05-12",
+    "country": "Türkiye",
+    "genres": ["Kişisel Gelişim", "Psikoloji", "Motivasyon"],
+    "awards": ["Altın Kitap Ödülü", "Yılın Yazarı Ödülü"],
+    "website": "https://www.ayseyilmaz.com",
+    "quotes": [
+      "Mutluluk bir seçimdir, bir şans değil.",
+      "Yaşamınızı değiştirmeye bugünden başlayın, yarın çok geç olabilir.",
+      "Zihninizi değiştirdiğinizde, hayatınız da değişir."
+    ],
+    "funFacts": [
+      "Üniversite yıllarında tiyatro oyunculuğu yapmıştır.",
+      "İlk kitabını 30 yaşında yayınlamıştır.",
+      "Haftada en az 10 saat meditasyon yapar."
+    ]
+  },
+  {
+    "id": "author-22",
+    "name": "Mehmet Kaya",
+    "bio": "Mehmet Kaya, teknoloji ve gelecek trendleri üzerine çalışan bir yazar ve konuşmacıdır. Bilgisayar mühendisliği eğitimi almış ve çeşitli teknoloji şirketlerinde yöneticilik yapmıştır. Kitaplarında teknolojinin toplum ve iş dünyası üzerindeki etkilerini inceler.",
+    "image": "public/img/mehmet-kaya.jpg",
+    "birthDate": "1980-11-15",
+    "country": "Türkiye",
+    "genres": ["Teknoloji", "İş Dünyası", "Popüler Bilim"],
+    "awards": ["Dijital Liderlik Ödülü", "Tech Writer Başarı Ödülü"],
+    "website": "https://www.mehmetkaya.net",
+    "quotes": [
+      "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır.",
+      "Teknoloji, insanın uzantısıdır; ne iyi ne de kötüdür. Kullanım şeklinize bağlıdır.",
+      "Veri, 21. yüzyılın petrolüdür."
+    ],
+    "funFacts": [
+      "İlk bilgisayarını 8 yaşında kendisi modifiye etmiştir.",
+      "Beş farklı programlama dili bilmektedir.",
+      "Teknoloji bağımlılığı konusunda tedavi programları geliştirmektedir."
+    ]
+  },
+  {
+    "id": "author-23",
+    "name": "Zeynep Akar",
+    "bio": "Zeynep Akar, polisiye ve gerilim türünde eserler veren ödüllü bir yazardır. Gazetecilik geçmişi olan Akar, gerçek olaylardan esinlenerek kurguladığı hikâyeleriyle tanınır. Kitapları birçok dile çevrilmiş ve bazıları televizyona uyarlanmıştır.",
+    "image": "public/img/zeynep-akar.jpg",
+    "birthDate": "1973-04-20",
+    "country": "Türkiye",
+    "genres": ["Polisiye", "Gerilim", "Psikolojik Gerilim"],
+    "awards": ["Türkiye Polisiye Yazarları Birliği Ödülü", "En İyi Kurgu Ödülü"],
+    "website": "https://www.zeynepakar.com",
+    "quotes": [
+      "Gerçek hayat, kurgudan daha tuhaftır.",
+      "Korku, kişinin kendisiyle yüzleşmesidir.",
+      "Her cinayet, çözülmeyi bekleyen bir bilmecedir."
+    ],
+    "funFacts": [
+      "Gazetecilik yıllarında üç büyük suç örgütünün çökertilmesine katkıda bulunmuştur.",
+      "Yazma sürecinde gerçek dedektiflerle çalışır.",
+      "İlk romanı bir hafta içinde yazılmıştır."
+    ]
+  },
+  {
+    "id": "author-24",
+    "name": "Jules Verne",
+    "bio": "Jules Verne, Fransız yazar ve şairdir. Bilim kurgu edebiyatının öncülerinden sayılır. 'Dünya'nın Merkezine Yolculuk', 'Denizler Altında Yirmi Bin Fersah' ve 'Seksen Günde Devr-i Alem' gibi eserleriyle tanınır. Eserlerinde bilimsel gelişmeleri öngörmesiyle bilinir.",
+    "image": "public/img/jules-verne.jpg",
+    "birthDate": "1828-02-08",
+    "country": "Fransa",
+    "genres": ["Bilim Kurgu", "Macera", "Gezi"],
+    "awards": ["Fransız Akademisi Üyeliği", "Légion d'honneur (Onursal)"],
+    "quotes": [
+      "İmkânsız diye bir şey yoktur, sadece henüz keşfedilmemiş yollar vardır.",
+      "Bilim, bilginin düzenli şekilde sistematize edilmesidir.",
+      "Her şey hayal etmekle başlar."
+    ],
+    "funFacts": [
+      "Denizcilik tutkusu vardı ve kendi yatıyla seyahat ederdi.",
+      "Eserleri, döneminde bilimsel olarak imkansız görülen pek çok buluşu öngörmüştür.",
+      "İlk başta hukuk eğitimi almış, ancak yazarlık kariyeri için bunu bırakmıştır."
+    ]
+  }
+] 

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "category-1",
+    "name": "Roman",
+    "slug": "roman"
+  },
+  {
+    "id": "category-2",
+    "name": "Bilim Kurgu",
+    "slug": "bilim-kurgu"
+  },
+  {
+    "id": "category-3",
+    "name": "Fantastik",
+    "slug": "fantastik"
+  },
+  {
+    "id": "category-4",
+    "name": "Polisiye",
+    "slug": "polisiye"
+  },
+  {
+    "id": "category-5",
+    "name": "Tarih",
+    "slug": "tarih"
+  },
+  {
+    "id": "category-6",
+    "name": "Felsefe",
+    "slug": "felsefe"
+  },
+  {
+    "id": "category-7",
+    "name": "Psikoloji",
+    "slug": "psikoloji"
+  },
+  {
+    "id": "category-8",
+    "name": "Kişisel Gelişim",
+    "slug": "kisisel-gelisim"
+  },
+  {
+    "id": "category-9",
+    "name": "Çocuk Kitapları",
+    "slug": "cocuk-kitaplari"
+  },
+  {
+    "id": "category-10",
+    "name": "Gençlik",
+    "slug": "genclik"
+  },
+  {
+    "id": "category-11",
+    "name": "Klasikler",
+    "slug": "klasikler"
+  },
+  {
+    "id": "category-12",
+    "name": "Şiir",
+    "slug": "siir"
+  },
+  {
+    "id": "category-13",
+    "name": "Biyografi",
+    "slug": "biyografi"
+  },
+  {
+    "id": "category-14",
+    "name": "Bilim",
+    "slug": "bilim"
+  },
+  {
+    "id": "category-15",
+    "name": "Sanat",
+    "slug": "sanat"
+  },
+  {
+    "id": "category-16",
+    "name": "Mizah",
+    "slug": "mizah"
+  },
+  {
+    "id": "category-17",
+    "name": "Macera",
+    "slug": "macera"
+  },
+  {
+    "id": "category-18",
+    "name": "Korku",
+    "slug": "korku"
+  },
+  {
+    "id": "category-19",
+    "name": "Aşk",
+    "slug": "ask"
+  },
+  {
+    "id": "category-20",
+    "name": "Distopya",
+    "slug": "distopya"
+  }
+] 

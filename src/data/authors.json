@@ -1,0 +1,667 @@
+[
+  {
+    "id": "author-14",
+    "name": "Ahmet Hamdi Tanpınar",
+    "bio": "Ahmet Hamdi Tanpınar, Türk yazar, şair ve edebiyat tarihçisi. Saatleri Ayarlama Enstitüsü ve Huzur gibi eserleriyle tanınır.",
+    "image": "public/img/ahmet-hamdi-tanpinar.jpg",
+    "birthDate": "1901-06-23",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Şiir",
+      "Deneme"
+    ],
+    "awards": [
+      "Cumhuriyet Halk Partisi Şiir Ödülü"
+    ],
+    "quotes": [
+      "Her büyük aşk, aynı zamanda bir kültür mirasıdır.",
+      "Zaman, değişerek devam eden, devam ederek değişen bir şeydir.",
+      "Yaşadığım dakikaya sahip olmak isterim, hâlbuki o bana sahiptir."
+    ],
+    "funFacts": [
+      "İstanbul'u ve Boğaz'ı eserlerinde adeta bir karakter gibi işlemiştir.",
+      "Beş Şehir adlı eserinde Türkiye'nin beş önemli şehrini kültürel ve tarihsel açıdan incelemiştir.",
+      "İstanbul Üniversitesi'nde Türk Edebiyatı profesörü olarak görev yapmıştır."
+    ]
+  },
+  {
+    "id": "author-3",
+    "name": "Ahmet Ümit",
+    "bio": "Ahmet Ümit, 1960 yılında Gaziantep'te doğdu. Marmara Üniversitesi Kamu Yönetimi Bölümü'nü bitirdi. Polisiye roman türünün Türkiye'deki en önemli temsilcilerinden biri olarak kabul edilir. Eserlerinde genellikle polisiye ve tarihi unsurları bir araya getirir, toplumsal sorunları ve Türkiye'nin yakın tarihini ele alır. İstanbul'un tarihi ve kültürel dokusunu romanlarında ustaca işler. Başkomiser Nevzat karakteriyle tanınan yazar, polisiye romanlarında sadece suçu değil, suçun arkasındaki toplumsal ve psikolojik nedenleri de derinlemesine inceler.",
+    "image": "public/img/ahmetumit.jpeg",
+    "birthDate": "1960-09-30",
+    "country": "Türkiye",
+    "genres": [
+      "Polisiye",
+      "Roman",
+      "Öykü"
+    ],
+    "awards": [
+      "Kaktüs Edebiyat Ödülü",
+      "Ankara Öykü Günleri Ödülü",
+      "Notre-Dame de Sion Edebiyat Ödülü"
+    ],
+    "website": "https://www.ahmetumit.com",
+    "quotes": [
+      "Suç, toplumun aynasıdır.",
+      "Polisiye roman, sadece bir cinayet hikayesi değil, toplumun röntgenidir.",
+      "İstanbul, benim için sadece bir şehir değil, başlı başına bir karakterdir."
+    ],
+    "funFacts": [
+      "Polisiye roman yazmaya başlamadan önce şiirler yazıyordu.",
+      "Romanlarını yazmadan önce detaylı araştırmalar yapar ve suç mahallinde incelemeler yapar.",
+      "Başkomiser Nevzat karakteri, Türk edebiyatının en sevilen dedektif karakterlerinden biridir.",
+      "Yazarlık dışında senaryo danışmanlığı da yapmaktadır."
+    ]
+  },
+  {
+    "id": "author-12",
+    "name": "Antoine de Saint-Exupéry",
+    "bio": "Antoine de Saint-Exupéry, Fransız yazar ve pilot. Küçük Prens adlı eseriyle dünya çapında tanınır.",
+    "image": "public/img/saint-exupery.jpg",
+    "birthDate": "1900-06-29",
+    "country": "Fransa",
+    "genres": [
+      "Roman",
+      "Çocuk Edebiyatı",
+      "Otobiyografi"
+    ],
+    "awards": [
+      "Grand Prix du Roman de l'Académie Française",
+      "U.S. National Book Award"
+    ],
+    "quotes": [
+      "İyi görülen tek kalple olur. Asıl olan gözle görülmez.",
+      "Bir insan ancak kalbiyle baktığı zaman doğruyu görebilir.",
+      "Büyükler sayıları pek sever. Onlara yeni bir arkadaş edindiğini söylediğinde, asla önemli şeyleri sormazlar."
+    ],
+    "funFacts": [
+      "Profesyonel pilottu ve posta uçaklarında çalışıyordu.",
+      "Küçük Prens'teki çizimleri kendisi yapmıştır.",
+      "II. Dünya Savaşı sırasında bir keşif uçuşunda kaybolmuş ve bir daha geri dönmemiştir."
+    ]
+  },
+  {
+    "id": "author-5",
+    "name": "Ayşe Kulin",
+    "bio": "Ayşe Kulin, Türk yazar ve gazeteci. Tarihi romanları ve biyografileriyle tanınır.",
+    "image": "public/img/ayşekulin.jpeg",
+    "birthDate": "1941-08-26",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Biyografi",
+      "Tarihsel Kurgu"
+    ],
+    "awards": [
+      "Haldun Taner Öykü Ödülü",
+      "İlhan İskender Armağanı",
+      "Balkan Edebiyat Ödülü"
+    ],
+    "website": "https://www.aysekulin.com",
+    "quotes": [
+      "Hayat, yalnızca bildiğiniz değil, bilmediğiniz insanların da hikayesidir.",
+      "Kitaplar, zamanın sınırlarını aşan köprülerdir.",
+      "Tarih, bugünü anlamak için geçmişin ışığıdır."
+    ],
+    "funFacts": [
+      "İlk mesleki kariyerine reklamcılıkla başlamıştır.",
+      "Ailesi Osmanlı döneminde önemli devlet görevlerinde bulunmuştur.",
+      "Eserlerinin birçoğu gerçek hayat hikayelerinden esinlenmiştir."
+    ]
+  },
+  {
+    "id": "author-21",
+    "name": "Ayşe Yılmaz",
+    "bio": "Ayşe Yılmaz, Türkiye'nin önde gelen kişisel gelişim yazarlarından biridir. Psikoloji eğitimi almış ve uzun yıllar danışmanlık yapmıştır. Kitaplarında bilimsel araştırmaları günlük hayata uygulanabilir tavsiyelerle birleştirmeyi amaçlar.",
+    "image": "public/img/ayse-yilmaz.jpg",
+    "birthDate": "1975-05-12",
+    "country": "Türkiye",
+    "genres": [
+      "Kişisel Gelişim",
+      "Psikoloji",
+      "Motivasyon"
+    ],
+    "awards": [
+      "Altın Kitap Ödülü",
+      "Yılın Yazarı Ödülü"
+    ],
+    "website": "https://www.ayseyilmaz.com",
+    "quotes": [
+      "Mutluluk bir seçimdir, bir şans değil.",
+      "Yaşamınızı değiştirmeye bugünden başlayın, yarın çok geç olabilir.",
+      "Zihninizi değiştirdiğinizde, hayatınız da değişir."
+    ],
+    "funFacts": [
+      "Üniversite yıllarında tiyatro oyunculuğu yapmıştır.",
+      "İlk kitabını 30 yaşında yayınlamıştır.",
+      "Haftada en az 10 saat meditasyon yapar."
+    ]
+  },
+  {
+    "id": "author-4",
+    "name": "Buket Uzuner",
+    "bio": "Buket Uzuner, Türk yazar ve çevreci. Romanları, öyküleri ve gezi yazılarıyla tanınır.",
+    "image": "public/img/Buketuzuner.jpeg",
+    "birthDate": "1955-10-03",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Gezi Yazısı",
+      "Çevre Edebiyatı"
+    ],
+    "awards": [
+      "Yunus Nadi Roman Ödülü",
+      "Dünya Bankası Çevre Ödülü",
+      "Edinburgh Festivali Edebiyat Ödülü"
+    ],
+    "website": "https://www.buketuzuner.com",
+    "quotes": [
+      "Doğa insana değil, insan doğaya aittir.",
+      "Yazmak, hayatın içinden başka bir hayat çıkarmaktır.",
+      "Her yazar, kendi içindeki gerçeği arayan bir seyyahtır."
+    ],
+    "funFacts": [
+      "Biyolog olarak eğitim almış ve çevre bilimcisi olarak çalışmıştır.",
+      "Su, Toprak, Hava ve Ateş dörtlemesinde Türk mitolojisini modern dünyayla buluşturmuştur.",
+      "Birçok farklı ülkede yaşamış ve kültürel çalışmalar yapmıştır."
+    ]
+  },
+  {
+    "id": "author-16",
+    "name": "Frank Herbert",
+    "bio": "Frank Herbert, Amerikalı bilim kurgu yazarı. Dune serisiyle tanınır.",
+    "image": "public/img/frank-herbert.jpg",
+    "birthDate": "1920-10-08",
+    "country": "Amerika Birleşik Devletleri",
+    "genres": [
+      "Bilim Kurgu",
+      "Fantastik",
+      "Ekoloji Kurgusu"
+    ],
+    "awards": [
+      "Hugo Ödülü",
+      "Nebula Ödülü",
+      "Science Fiction Hall of Fame"
+    ],
+    "quotes": [
+      "Korku, zihnin katilidir.",
+      "En derin kaynaklar en sessiz akanlardır.",
+      "Bilgi, aydınlanmaya götüren kapıdır."
+    ],
+    "funFacts": [
+      "Dune evrenini yaratırken ekoloji ve çevre biliminden büyük ölçüde etkilenmiştir.",
+      "Dune kitabı başlangıçta birçok yayınevi tarafından reddedilmiştir.",
+      "Bir dönem gazetecilik yapmış ve çevre sorunları üzerine makaleler yazmıştır."
+    ]
+  },
+  {
+    "id": "author-8",
+    "name": "Fyodor Dostoyevski",
+    "bio": "Fyodor Dostoyevski, Rus yazar ve düşünür. Suç ve Ceza, Karamazov Kardeşler gibi eserleriyle dünya edebiyatının en önemli yazarlarından biridir.",
+    "image": "public/img/dostoyevski.jpg",
+    "birthDate": "1821-11-11",
+    "country": "Rusya",
+    "genres": [
+      "Roman",
+      "Felsefi Kurgu",
+      "Psikolojik Kurgu"
+    ],
+    "awards": [
+      "Rus İmparatorluk Coğrafya Topluluğu Altın Madalyası",
+      "Puşkin Ödülü"
+    ],
+    "quotes": [
+      "İnsan her şeye alışabilir, ama özellikle de her şeye alışabileceği gerçeğine asla alışamaz.",
+      "Dünya güzellik ile kurtulacaktır.",
+      "Acı çekmek, yaşamanın yegâne sebebidir."
+    ],
+    "funFacts": [
+      "İdam cezasına çarptırılmış, tam infaz edilecekken son anda affedilmiştir.",
+      "Epilepsi hastasıydı ve bu durumu romanlarında sıkça işlemiştir.",
+      "Kumar bağımlılığı vardı ve bu yüzden sürekli maddi sıkıntı çekmiştir."
+    ]
+  },
+  {
+    "id": "author-6",
+    "name": "George Orwell",
+    "bio": "George Orwell, İngiliz yazar ve gazeteci. 1984 ve Hayvan Çiftliği gibi distopik romanlarıyla tanınır.",
+    "image": "public/img/george-orwell.jpg",
+    "birthDate": "1903-06-25",
+    "country": "İngiltere",
+    "genres": [
+      "Distopik Kurgu",
+      "Roman",
+      "Deneme"
+    ],
+    "awards": [
+      "Prometheus Hall of Fame Ödülü",
+      "Retro Hugo Ödülü",
+      "Time Dergisi En İyi 100 Roman"
+    ],
+    "quotes": [
+      "Özgürlük, insanlara duymak istemediklerini söyleme hakkıdır.",
+      "Tüm hayvanlar eşittir, ama bazıları diğerlerinden daha eşittir.",
+      "Gerçek, gerçek olmaya devam ettiği sürece acı olabilir, ama daha acı olması durumunda gerçek olmayı bırakır."
+    ],
+    "funFacts": [
+      "Gerçek adı Eric Arthur Blair'dir.",
+      "İspanya İç Savaşı'nda gönüllü olarak savaşmıştır.",
+      "1984 kitabı, totaliter rejimlere karşı yazılmış en etkili eserlerden biri kabul edilir."
+    ]
+  },
+  {
+    "id": "author-7",
+    "name": "J.K. Rowling",
+    "bio": "J.K. Rowling, İngiliz yazar. Harry Potter serisinin yazarı olarak dünya çapında tanınır.",
+    "image": "public/img/jk-rowling.jpg",
+    "birthDate": "1965-07-31",
+    "country": "İngiltere",
+    "genres": [
+      "Fantastik Kurgu",
+      "Çocuk Edebiyatı",
+      "Polisiye"
+    ],
+    "awards": [
+      "Order of the British Empire",
+      "Hans Christian Andersen Edebiyat Ödülü",
+      "British Book Awards"
+    ],
+    "website": "https://www.jkrowling.com",
+    "quotes": [
+      "Mutluluk en karanlık zamanlarda bile bulunabilir, yeter ki ışığı açmayı unutmayın.",
+      "Kelimeler, sahip olduğumuz en güçlü büyüdür.",
+      "Hayatında hiç başarısız olmayan bir insan, hiçbir şeyi denememişti."
+    ],
+    "funFacts": [
+      "İlk Harry Potter kitabını bir tren yolculuğunda hayal etmiştir.",
+      "Harry Potter serisini yazarken maddi zorluklar yaşamış ve kahve dükkanlarında yazarak geçimini sağlamıştır.",
+      "Robert Galbraith takma adıyla polisiye romanlar yazmaktadır."
+    ]
+  },
+  {
+    "id": "author-17",
+    "name": "J.R.R. Tolkien",
+    "bio": "J.R.R. Tolkien, İngiliz yazar, şair ve filolog. Yüzüklerin Efendisi ve Hobbit gibi eserleriyle fantastik edebiyatın öncülerindendir.",
+    "image": "public/img/tolkien.jpg",
+    "birthDate": "1892-01-03",
+    "country": "İngiltere",
+    "genres": [
+      "Fantastik Edebiyat",
+      "Mitoloji",
+      "Şiir"
+    ],
+    "awards": [
+      "International Fantasy Award",
+      "Locus Ödülü",
+      "Oxford Üniversitesi Filoloji Madalyası"
+    ],
+    "website": "https://www.tolkienestate.com",
+    "quotes": [
+      "Gezmeyen tek yol, ayak basılmamış olandır.",
+      "Karanlık, en çok aydınlığı bilmeyenleri korkutur.",
+      "Büyük bir tehlike olmadan büyük bir zafer de olmaz."
+    ],
+    "funFacts": [
+      "Orta Dünya için tamamen özgün diller (Elfçe, Cücece vb.) yaratmıştır.",
+      "I. Dünya Savaşı'nda cephede savaşmış ve bu deneyiminden eserlerinde bahsetmiştir.",
+      "Oxford Üniversitesi'nde profesör olarak çalışmıştır."
+    ]
+  },
+  {
+    "id": "author-11",
+    "name": "John Steinbeck",
+    "bio": "John Steinbeck, Amerikalı yazar ve Nobel Edebiyat Ödülü sahibi. Fareler ve İnsanlar, Gazap Üzümleri gibi eserleriyle tanınır.",
+    "image": "public/img/john-steinbeck.jpg",
+    "birthDate": "1902-02-27",
+    "country": "Amerika Birleşik Devletleri",
+    "genres": [
+      "Roman",
+      "Kısa Öykü",
+      "Seyahatname"
+    ],
+    "awards": [
+      "Nobel Edebiyat Ödülü (1962)",
+      "Pulitzer Ödülü (1940)",
+      "Amerikan Ulusal Sanat Madalyası"
+    ],
+    "quotes": [
+      "Bir kitap bir meşale gibidir, karanlıkta yolumuzu aydınlatan.",
+      "İnsanlara ihtiyaçları olandan daha fazla güç verme, ondan kötü bir şey yoktur.",
+      "Belki herkes içinde bir korku taşır, başkaları öğrenecek diye."
+    ],
+    "funFacts": [
+      "II. Dünya Savaşı sırasında savaş muhabiri olarak çalışmıştır.",
+      "Deniz biyolojisine büyük ilgi duymuş ve arkadaşı Ed Ricketts ile birlikte bilimsel çalışmalar yapmıştır.",
+      "Gazap Üzümleri kitabı, Büyük Buhran döneminde göç eden çiftçilerin gerçek hikayelerine dayanır."
+    ]
+  },
+  {
+    "id": "author-24",
+    "name": "Jules Verne",
+    "bio": "Jules Verne, Fransız yazar ve şairdir. Bilim kurgu edebiyatının öncülerinden sayılır. 'Dünya'nın Merkezine Yolculuk', 'Denizler Altında Yirmi Bin Fersah' ve 'Seksen Günde Devr-i Alem' gibi eserleriyle tanınır. Eserlerinde bilimsel gelişmeleri öngörmesiyle bilinir.",
+    "image": "public/img/jules-verne.jpg",
+    "birthDate": "1828-02-08",
+    "country": "Fransa",
+    "genres": [
+      "Bilim Kurgu",
+      "Macera",
+      "Gezi"
+    ],
+    "awards": [
+      "Fransız Akademisi Üyeliği",
+      "Légion d'honneur (Onursal)"
+    ],
+    "quotes": [
+      "İmkânsız diye bir şey yoktur, sadece henüz keşfedilmemiş yollar vardır.",
+      "Bilim, bilginin düzenli şekilde sistematize edilmesidir.",
+      "Her şey hayal etmekle başlar."
+    ],
+    "funFacts": [
+      "Denizcilik tutkusu vardı ve kendi yatıyla seyahat ederdi.",
+      "Eserleri, döneminde bilimsel olarak imkansız görülen pek çok buluşu öngörmüştür.",
+      "İlk başta hukuk eğitimi almış, ancak yazarlık kariyeri için bunu bırakmıştır."
+    ]
+  },
+  {
+    "id": "author-19",
+    "name": "Lev Tolstoy",
+    "bio": "Lev Tolstoy, Rus yazar. Savaş ve Barış, Anna Karenina gibi eserleriyle dünya edebiyatının en önemli yazarlarından biridir.",
+    "image": "public/img/tolstoy.jpg",
+    "birthDate": "1828-09-09",
+    "country": "Rusya",
+    "genres": [
+      "Roman",
+      "Deneme",
+      "Dini Yazılar"
+    ],
+    "awards": [
+      "Rus Bilimler Akademisi Üyeliği"
+    ],
+    "quotes": [
+      "Herkes dünyayı değiştirmeyi düşünür, ama hiç kimse kendini değiştirmeyi düşünmez.",
+      "Mutlu aileler birbirine benzer, mutsuz ailelerin mutsuzluğu ise kendine özgüdür.",
+      "Hayat, geçmişin anıları ve geleceğin hayalleriyle değil, şimdiki anın farkındalığıyla yaşanır."
+    ],
+    "funFacts": [
+      "Soylu bir ailede doğmuş olmasına rağmen, yaşamının sonlarına doğru basit bir köylü gibi yaşamayı tercih etmiştir.",
+      "Pasifizm ve şiddetsizlik felsefesini benimsemiş ve Gandhi üzerinde büyük etki bırakmıştır.",
+      "Savaş ve Barış romanı için yoğun tarihsel araştırmalar yapmış, Napolyon Savaşları'nın geçtiği yerleri bizzat ziyaret etmiştir."
+    ]
+  },
+  {
+    "id": "author-22",
+    "name": "Mehmet Kaya",
+    "bio": "Mehmet Kaya, teknoloji ve gelecek trendleri üzerine çalışan bir yazar ve konuşmacıdır. Bilgisayar mühendisliği eğitimi almış ve çeşitli teknoloji şirketlerinde yöneticilik yapmıştır. Kitaplarında teknolojinin toplum ve iş dünyası üzerindeki etkilerini inceler.",
+    "image": "public/img/mehmet-kaya.jpg",
+    "birthDate": "1980-11-15",
+    "country": "Türkiye",
+    "genres": [
+      "Teknoloji",
+      "İş Dünyası",
+      "Popüler Bilim"
+    ],
+    "awards": [
+      "Dijital Liderlik Ödülü",
+      "Tech Writer Başarı Ödülü"
+    ],
+    "website": "https://www.mehmetkaya.net",
+    "quotes": [
+      "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır.",
+      "Teknoloji, insanın uzantısıdır; ne iyi ne de kötüdür. Kullanım şeklinize bağlıdır.",
+      "Veri, 21. yüzyılın petrolüdür."
+    ],
+    "funFacts": [
+      "İlk bilgisayarını 8 yaşında kendisi modifiye etmiştir.",
+      "Beş farklı programlama dili bilmektedir.",
+      "Teknoloji bağımlılığı konusunda tedavi programları geliştirmektedir."
+    ]
+  },
+  {
+    "id": "author-20",
+    "name": "Miguel de Cervantes",
+    "bio": "Miguel de Cervantes, İspanyol yazar. Don Kişot eseriyle dünya edebiyatının en önemli yazarlarından biridir.",
+    "image": "public/img/cervantes.jpg",
+    "birthDate": "1547-09-29",
+    "country": "İspanya",
+    "genres": [
+      "Roman",
+      "Şiir",
+      "Tiyatro"
+    ],
+    "awards": [
+      "İspanyol Kraliyet Akademisi Onur Üyeliği (Ölümünden sonra)"
+    ],
+    "quotes": [
+      "Özgürlük, insana bahşedilmiş en değerli şeydir.",
+      "Deli ile bilge arasındaki tek fark, bilgenin deliliğini kontrol etmesidir.",
+      "Hayalperest olmanın tehlikesi, hayal kırıklığına uğramaktır."
+    ],
+    "funFacts": [
+      "Cezayir'de beş yıl esir olarak yaşamıştır.",
+      "Don Kişot, modern roman türünün ilk örneği olarak kabul edilir.",
+      "Savaşta sol elini kaybetmiş ve 'Lepanto'nun Tek Kollu Adamı' olarak anılmıştır."
+    ]
+  },
+  {
+    "id": "author-13",
+    "name": "Oğuz Atay",
+    "bio": "Oğuz Atay, Türk yazar ve mühendis. Tutunamayanlar ve Tehlikeli Oyunlar gibi eserleriyle modern Türk edebiyatının öncülerindendir.",
+    "image": "public/img/oguz-atay.jpg",
+    "birthDate": "1934-10-12",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Öykü",
+      "Deneme"
+    ],
+    "awards": [
+      "TRT Roman Ödülü"
+    ],
+    "quotes": [
+      "Oysa herkes öldürür sevdiğini...",
+      "Kelimeler, kelimeler, kelimeler... Bütün mesele onları yan yana getirmekte.",
+      "Düşünmek lazım; durmadan, ara vermeden düşünmek."
+    ],
+    "funFacts": [
+      "İTÜ'de inşaat mühendisliği eğitimi almış ve akademisyenlik yapmıştır.",
+      "İlk ve en önemli eseri olan Tutunamayanlar, yayınlandığında fazla ilgi görmemiştir.",
+      "Beyin tümörü nedeniyle 43 yaşında hayatını kaybetmiştir."
+    ]
+  },
+  {
+    "id": "author-1",
+    "name": "Orhan Pamuk",
+    "bio": "Orhan Pamuk, Türk yazar ve Nobel Edebiyat Ödülü sahibidir. İstanbul'da doğmuş ve büyümüştür. Romanları dünya çapında çeşitli dillere çevrilmiştir.",
+    "image": "public/img/orhanpamuk.jpeg",
+    "birthDate": "1952-06-07",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Deneme",
+      "Anı"
+    ],
+    "awards": [
+      "Nobel Edebiyat Ödülü (2006)",
+      "Prix Médicis Étranger (2005)",
+      "IMPAC Dublin Edebiyat Ödülü (2003)"
+    ],
+    "website": "https://www.orhanpamuk.net",
+    "quotes": [
+      "Mutluluk başkalarının varlığında yalnız kalabilmektir.",
+      "Hayat, insanın kendisini bulma çabasıdır.",
+      "Kitaplar bize, yalnız olmadığımızı hatırlatır."
+    ],
+    "funFacts": [
+      "Orhan Pamuk, mimarlık eğitimini yarıda bırakıp yazar olmaya karar vermiştir.",
+      "Kar romanını yazarken üç yıl boyunca her gün kar yağışını hayal etmiştir.",
+      "Nobel ödülünü aldıktan sonra kütüphanesini İstanbul'daki Masumiyet Müzesi'ne bağışlamıştır."
+    ]
+  },
+  {
+    "id": "author-9",
+    "name": "Paulo Coelho",
+    "bio": "Paulo Coelho, Brezilyalı yazar. Simyacı romanıyla dünya çapında üne kavuşmuştur.",
+    "image": "public/img/paulo-coelho.jpg",
+    "birthDate": "1947-08-24",
+    "country": "Brezilya",
+    "genres": [
+      "Roman",
+      "Spiritüel Edebiyat",
+      "Otobiyografi"
+    ],
+    "awards": [
+      "Guinness Dünya Rekorları - En Çok Dile Çevrilen Yaşayan Yazar",
+      "Alman Kitap Barış Ödülü",
+      "Crystal Award"
+    ],
+    "website": "https://paulocoelhoblog.com",
+    "quotes": [
+      "Bir şeyi gerçekten istediğinde, bütün evren senin onu gerçekleştirmeni sağlamak için işbirliği yapar.",
+      "Her arayış bir maceradır.",
+      "Dünya en büyük hazinedir çünkü seni sana gösterir."
+    ],
+    "funFacts": [
+      "Gençliğinde akıl hastanesine yatırılmıştır.",
+      "Rock müzik sözleri yazmış ve şarkı sözü yazarı olarak da tanınmıştır.",
+      "Kitaplarını internetten ücretsiz olarak paylaşması, satışlarını artırmıştır."
+    ]
+  },
+  {
+    "id": "author-10",
+    "name": "Sabahattin Ali",
+    "bio": "Sabahattin Ali, Türk yazar, şair ve gazeteci. Kürk Mantolu Madonna ve İçimizdeki Şeytan gibi eserleriyle tanınır.",
+    "image": "public/img/sabahattin-ali.jpg",
+    "birthDate": "1907-02-25",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Öykü",
+      "Şiir"
+    ],
+    "awards": [
+      "TDK Edebiyat Ödülü"
+    ],
+    "quotes": [
+      "Dünyada hakikat denen bir şey varsa o da şudur ki, hiçbir şey göründüğü gibi değildir.",
+      "İnsan ancak insana derdini anlatabilir.",
+      "Sevmek, her şeyden önce, inanmaktır."
+    ],
+    "funFacts": [
+      "Almanya'da müzik eğitimi almıştır.",
+      "Siyasi görüşleri nedeniyle hapis cezası almıştır.",
+      "Gizemli bir şekilde öldürülmüş ve mezarı bilinmemektedir."
+    ]
+  },
+  {
+    "id": "author-15",
+    "name": "Stefan Zweig",
+    "bio": "Stefan Zweig, Avusturyalı yazar, oyun yazarı ve gazeteci. Amok Koşucusu, Satranç gibi eserleriyle tanınır.",
+    "image": "public/img/stefan-zweig.jpg",
+    "birthDate": "1881-11-28",
+    "country": "Avusturya",
+    "genres": [
+      "Roman",
+      "Biyografi",
+      "Öykü"
+    ],
+    "awards": [
+      "Bauernfeld Ödülü",
+      "Ben Gurion Üniversitesi Edebiyat Ödülü"
+    ],
+    "quotes": [
+      "İnsanın en büyük mutluluğu, başkalarının imkânsız saydığı şeyi başarmaktır.",
+      "Kitaplar, hayatımız boyunca karşılaşabileceğimiz en sadık dostlardır.",
+      "Dünyada hiçbir şey, bir insanın kendi hayatındaki değeri kadar önemli değildir."
+    ],
+    "funFacts": [
+      "Nazi rejiminden kaçarak Brezilya'ya yerleşmiştir.",
+      "Eşiyle birlikte intihar etmiştir.",
+      "Dünya çapında en çok çevrilen Alman dili yazarlarından biridir."
+    ]
+  },
+  {
+    "id": "author-18",
+    "name": "Victor Hugo",
+    "bio": "Victor Hugo, Fransız yazar ve şair. Sefiller ve Notre Dame'ın Kamburu gibi eserleriyle dünya edebiyatının en önemli yazarlarından biridir.",
+    "image": "public/img/victor-hugo.jpg",
+    "birthDate": "1802-02-26",
+    "country": "Fransa",
+    "genres": [
+      "Roman",
+      "Şiir",
+      "Drama"
+    ],
+    "awards": [
+      "Fransız Akademisi Üyeliği",
+      "Legion d'Honneur"
+    ],
+    "quotes": [
+      "Müzik, sözcüklerin ifade edemediği duyguları anlatır.",
+      "Özgürlük, eşitlik ve kardeşlik kutsal bir üçlemedir.",
+      "İyi kitaplar en sağlam hazinedir."
+    ],
+    "funFacts": [
+      "Fransız parlamentosunda milletvekili olarak görev yapmıştır.",
+      "Siyasi görüşleri nedeniyle sürgünde yaşamak zorunda kalmıştır.",
+      "Resim ve çizim konusunda da oldukça yetenekliydi, 4000'den fazla çizim yapmıştır."
+    ]
+  },
+  {
+    "id": "author-2",
+    "name": "Yaşar Kemal",
+    "bio": "Yaşar Kemal, Türk romancı, kısa hikâye yazarı ve gazeteci. İnce Memed romanıyla uluslararası üne kavuşmuştur.",
+    "image": "public/img/yaşar kemal.jpg",
+    "birthDate": "1923-10-06",
+    "country": "Türkiye",
+    "genres": [
+      "Roman",
+      "Hikaye",
+      "Röportaj"
+    ],
+    "awards": [
+      "Légion d'honneur (1984)",
+      "Prix Mondial Cino Del Duca (1982)",
+      "Uluslararası Cevdet Kudret Edebiyat Ödülü (1996)"
+    ],
+    "quotes": [
+      "Topraksız insan, köksüz ağaç gibidir.",
+      "Edebiyat insanı insana, insanlığa bağlayan en güçlü köprüdür.",
+      "Umut insanda her zaman vardır."
+    ],
+    "funFacts": [
+      "Asıl adı Kemal Sadık Gökçeli'dir.",
+      "Çocukken geçirdiği bir kaza sonucu sol gözünü kaybetmiştir.",
+      "Türkiye'de en çok yabancı dile çevrilen yazarlardan biridir."
+    ]
+  },
+  {
+    "id": "author-23",
+    "name": "Zeynep Akar",
+    "bio": "Zeynep Akar, polisiye ve gerilim türünde eserler veren ödüllü bir yazardır. Gazetecilik geçmişi olan Akar, gerçek olaylardan esinlenerek kurguladığı hikâyeleriyle tanınır. Kitapları birçok dile çevrilmiş ve bazıları televizyona uyarlanmıştır.",
+    "image": "public/img/zeynep-akar.jpg",
+    "birthDate": "1973-04-20",
+    "country": "Türkiye",
+    "genres": [
+      "Polisiye",
+      "Gerilim",
+      "Psikolojik Gerilim"
+    ],
+    "awards": [
+      "Türkiye Polisiye Yazarları Birliği Ödülü",
+      "En İyi Kurgu Ödülü"
+    ],
+    "website": "https://www.zeynepakar.com",
+    "quotes": [
+      "Gerçek hayat, kurgudan daha tuhaftır.",
+      "Korku, kişinin kendisiyle yüzleşmesidir.",
+      "Her cinayet, çözülmeyi bekleyen bir bilmecedir."
+    ],
+    "funFacts": [
+      "Gazetecilik yıllarında üç büyük suç örgütünün çökertilmesine katkıda bulunmuştur.",
+      "Yazma sürecinde gerçek dedektiflerle çalışır.",
+      "İlk romanı bir hafta içinde yazılmıştır."
+    ]
+  }
+]
