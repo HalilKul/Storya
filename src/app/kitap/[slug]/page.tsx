@@ -9,6 +9,7 @@ import { useCart } from '@/lib/CartContext';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import BookCard from '@/components/BookCard';
+import ShareButtons from '@/components/ShareButtons';
 
 export default function BookDetailPage({ params }: {
   params: { slug: string }
@@ -169,6 +170,15 @@ export default function BookDetailPage({ params }: {
                   </svg>
                 </button>
               </div>
+            </div>
+
+            {/* Paylaşım Butonları */}
+            <div className="mb-8">
+              <ShareButtons 
+                url={`/kitap/${book.slug}`}
+                title={book.title}
+                description={book.description.substring(0, 100) + '...'}
+              />
             </div>
 
             {/* Sesli Kitap Bölümü */}
