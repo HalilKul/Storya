@@ -3,7 +3,7 @@
     "id": "author-20",
     "name": "Lewis Carroll",
     "bio": "Lewis Carroll (gerçek adı Charles Lutwidge Dodgson), İngiliz yazar, matematikçi, mantıkçı, fotoğrafçı ve Anglikan papazıdır. En ünlü eserleri 'Alice Harikalar Diyarında' ve devamı 'Aynadan İçeri'dir. Absürt ve fantastik edebiyatın öncülerinden sayılır.",
-    "image": "public/img/lewis-carroll.jpg",
+    "image": "public/img/Lewis-Carroll.jpg",
     "birthDate": "1832-01-27",
     "country": "İngiltere",
     "genres": ["Fantastik Edebiyat", "Çocuk Edebiyatı", "Şiir"],

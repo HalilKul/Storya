@@ -3,7 +3,7 @@
     "id": "author-14",
     "name": "Ahmet Hamdi Tanpınar",
     "bio": "Ahmet Hamdi Tanpınar, Türk yazar, şair ve edebiyat tarihçisi. Saatleri Ayarlama Enstitüsü ve Huzur gibi eserleriyle tanınır.",
-    "image": "public/img/ahmet-hamdi-tanpinar.jpg",
+    "image": "public/img/ahmethamditanpınar.jpg",
     "birthDate": "1901-06-23",
     "country": "Türkiye",
     "genres": [
@@ -59,7 +59,7 @@
     "id": "author-12",
     "name": "Antoine de Saint-Exupéry",
     "bio": "Antoine de Saint-Exupéry, Fransız yazar ve pilot. Küçük Prens adlı eseriyle dünya çapında tanınır.",
-    "image": "public/img/saint-exupery.jpg",
+    "image": "public/img/Antoine.jpg",
     "birthDate": "1900-06-29",
     "country": "Fransa",
     "genres": [
@@ -115,7 +115,7 @@
     "id": "author-21",
     "name": "Ayşe Yılmaz",
     "bio": "Ayşe Yılmaz, Türkiye'nin önde gelen kişisel gelişim yazarlarından biridir. Psikoloji eğitimi almış ve uzun yıllar danışmanlık yapmıştır. Kitaplarında bilimsel araştırmaları günlük hayata uygulanabilir tavsiyelerle birleştirmeyi amaçlar.",
-    "image": "public/img/ayse-yilmaz.jpg",
+    "image": "public/img/ayşeyılmaz.jpg",
     "birthDate": "1975-05-12",
     "country": "Türkiye",
     "genres": [
@@ -172,7 +172,7 @@
     "id": "author-16",
     "name": "Frank Herbert",
     "bio": "Frank Herbert, Amerikalı bilim kurgu yazarı. Dune serisiyle tanınır.",
-    "image": "public/img/frank-herbert.jpg",
+    "image": "public/img/frankherbert.jpg",
     "birthDate": "1920-10-08",
     "country": "Amerika Birleşik Devletleri",
     "genres": [
@@ -200,7 +200,7 @@
     "id": "author-8",
     "name": "Fyodor Dostoyevski",
     "bio": "Fyodor Dostoyevski, Rus yazar ve düşünür. Suç ve Ceza, Karamazov Kardeşler gibi eserleriyle dünya edebiyatının en önemli yazarlarından biridir.",
-    "image": "public/img/dostoyevski.jpg",
+    "image": "public/img/fyodordoystoveski.jpg",
     "birthDate": "1821-11-11",
     "country": "Rusya",
     "genres": [
@@ -227,7 +227,7 @@
     "id": "author-6",
     "name": "George Orwell",
     "bio": "George Orwell, İngiliz yazar ve gazeteci. 1984 ve Hayvan Çiftliği gibi distopik romanlarıyla tanınır.",
-    "image": "public/img/george-orwell.jpg",
+    "image": "public/img/georgeorwell.jpg",
     "birthDate": "1903-06-25",
     "country": "İngiltere",
     "genres": [
@@ -283,8 +283,8 @@
   {
     "id": "author-17",
     "name": "J.R.R. Tolkien",
-    "bio": "J.R.R. Tolkien, İngiliz yazar, şair ve filolog. Yüzüklerin Efendisi ve Hobbit gibi eserleriyle fantastik edebiyatın öncülerindendir.",
-    "image": "public/img/tolkien.jpg",
+    "bio": "John Ronald Reuel Tolkien, İngiliz yazar, şair ve filolog. 'Hobbit' ve 'Yüzüklerin Efendisi' gibi yüksek fantezi eserlerinin yazarıdır.",
+    "image": "public/img/J.R.R.-Tolkien.jpg",
     "birthDate": "1892-01-03",
     "country": "İngiltere",
     "genres": [
@@ -312,8 +312,8 @@
   {
     "id": "author-11",
     "name": "John Steinbeck",
-    "bio": "John Steinbeck, Amerikalı yazar ve Nobel Edebiyat Ödülü sahibi. Fareler ve İnsanlar, Gazap Üzümleri gibi eserleriyle tanınır.",
-    "image": "public/img/john-steinbeck.jpg",
+    "bio": "John Steinbeck, Amerikalı yazar ve Pulitzer ve Nobel ödüllü romancı. 'Gazap Üzümleri' ve 'Fareler ve İnsanlar' gibi eserleriyle tanınır.",
+    "image": "public/img/John-Steinbeck.jpeg",
     "birthDate": "1902-02-27",
     "country": "Amerika Birleşik Devletleri",
     "genres": [
@@ -338,10 +338,10 @@
     ]
   },
   {
-    "id": "author-24",
+    "id": "author-18",
     "name": "Jules Verne",
-    "bio": "Jules Verne, Fransız yazar ve şairdir. Bilim kurgu edebiyatının öncülerinden sayılır. 'Dünya'nın Merkezine Yolculuk', 'Denizler Altında Yirmi Bin Fersah' ve 'Seksen Günde Devr-i Alem' gibi eserleriyle tanınır. Eserlerinde bilimsel gelişmeleri öngörmesiyle bilinir.",
-    "image": "public/img/jules-verne.jpg",
+    "bio": "Jules Verne, Fransız yazar ve şairdir. Bilim kurgu edebiyatının öncülerinden sayılır. 'Dünya'nın Merkezine Yolculuk', 'Denizler Altında Yirmi Bin Fersah' ve 'Seksen Günde Devr-i Alem' gibi eserleriyle tanınır.",
+    "image": "public/img/julesverne.jpeg",
     "birthDate": "1828-02-08",
     "country": "Fransa",
     "genres": [
@@ -531,8 +531,8 @@
   {
     "id": "author-10",
     "name": "Sabahattin Ali",
-    "bio": "Sabahattin Ali, Türk yazar, şair ve gazeteci. Kürk Mantolu Madonna ve İçimizdeki Şeytan gibi eserleriyle tanınır.",
-    "image": "public/img/sabahattin-ali.jpg",
+    "bio": "Sabahattin Ali, Türk hikâyeci, romancı, şair ve gazeteci. Türk edebiyatının usta kalemlerinden biri olarak kabul edilir.",
+    "image": "public/img/sabahattinali.jpg",
     "birthDate": "1907-02-25",
     "country": "Türkiye",
     "genres": [
@@ -557,8 +557,8 @@
   {
     "id": "author-15",
     "name": "Stefan Zweig",
-    "bio": "Stefan Zweig, Avusturyalı yazar, oyun yazarı ve gazeteci. Amok Koşucusu, Satranç gibi eserleriyle tanınır.",
-    "image": "public/img/stefan-zweig.jpg",
+    "bio": "Stefan Zweig, Avusturyalı romancı, oyun yazarı, gazeteci ve biyografi yazarı. Satranç, Amok Koşucusu gibi eserleriyle tanınır.",
+    "image": "public/img/Stefan_Zweig2.png",
     "birthDate": "1881-11-28",
     "country": "Avusturya",
     "genres": [
@@ -579,61 +579,6 @@
       "Nazi rejiminden kaçarak Brezilya'ya yerleşmiştir.",
       "Eşiyle birlikte intihar etmiştir.",
       "Dünya çapında en çok çevrilen Alman dili yazarlarından biridir."
-    ]
-  },
-  {
-    "id": "author-18",
-    "name": "Victor Hugo",
-    "bio": "Victor Hugo, Fransız yazar ve şair. Sefiller ve Notre Dame'ın Kamburu gibi eserleriyle dünya edebiyatının en önemli yazarlarından biridir.",
-    "image": "public/img/victor-hugo.jpg",
-    "birthDate": "1802-02-26",
-    "country": "Fransa",
-    "genres": [
-      "Roman",
-      "Şiir",
-      "Drama"
-    ],
-    "awards": [
-      "Fransız Akademisi Üyeliği",
-      "Legion d'Honneur"
-    ],
-    "quotes": [
-      "Müzik, sözcüklerin ifade edemediği duyguları anlatır.",
-      "Özgürlük, eşitlik ve kardeşlik kutsal bir üçlemedir.",
-      "İyi kitaplar en sağlam hazinedir."
-    ],
-    "funFacts": [
-      "Fransız parlamentosunda milletvekili olarak görev yapmıştır.",
-      "Siyasi görüşleri nedeniyle sürgünde yaşamak zorunda kalmıştır.",
-      "Resim ve çizim konusunda da oldukça yetenekliydi, 4000'den fazla çizim yapmıştır."
-    ]
-  },
-  {
-    "id": "author-2",
-    "name": "Yaşar Kemal",
-    "bio": "Yaşar Kemal, Türk romancı, kısa hikâye yazarı ve gazeteci. İnce Memed romanıyla uluslararası üne kavuşmuştur.",
-    "image": "public/img/yaşar kemal.jpg",
-    "birthDate": "1923-10-06",
-    "country": "Türkiye",
-    "genres": [
-      "Roman",
-      "Hikaye",
-      "Röportaj"
-    ],
-    "awards": [
-      "Légion d'honneur (1984)",
-      "Prix Mondial Cino Del Duca (1982)",
-      "Uluslararası Cevdet Kudret Edebiyat Ödülü (1996)"
-    ],
-    "quotes": [
-      "Topraksız insan, köksüz ağaç gibidir.",
-      "Edebiyat insanı insana, insanlığa bağlayan en güçlü köprüdür.",
-      "Umut insanda her zaman vardır."
-    ],
-    "funFacts": [
-      "Asıl adı Kemal Sadık Gökçeli'dir.",
-      "Çocukken geçirdiği bir kaza sonucu sol gözünü kaybetmiştir.",
-      "Türkiye'de en çok yabancı dile çevrilen yazarlardan biridir."
     ]
   },
   {
